@@ -18,23 +18,23 @@ This project investigates the rovibrational spectra of the HCl molecule using Ge
 
 ### Morse Potential
 
-![Morse Potential](potential%20plot.png)
+![Morse Potential](potential%20plot.png.png)
 
 ### Optimized Parameters
 
-![Optimized Parameters](optimized%20parameters.png)
+![Optimized Parameters](optimized%20parameters.png.png)
 
 ### Vibrational Energy Levels
 
-![Energy Levels](values%20simulated%20energies.png)
+![Energy Levels](values%20simulated%20energies.png.png)
 
 ### Simulated vs Experimental Vibrational Transitions
 
-![Transitions](simu%20vs%20exp%20vibrational%20transitions.png)
+![Transitions](simu%20vs%20exp%20vibrational%20transitions.png.png)
 
 ### P and R Branch Spectra
 
-![P and R Branch](0%20to%201%20R%20and%20P%20branch.png)
+![P and R Branch](0%20to%201%20R%20and%20P%20branch.png.png)
 
 ## Note
 
